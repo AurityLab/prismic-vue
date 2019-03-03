@@ -1,6 +1,6 @@
 {
   "name": "@auritylab/prismic-vue",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Vue.js plugin to facilitate integration of content managed with Prismic",
   "license": "Apache-2.0",
   "repository": "github:prismicio/prismic-vue",
@@ -14,6 +14,11 @@
     "start": "npm run build",
     "build": "rollup -c"
   },
+  "files": [
+    "dist/",
+    "README.md",
+    "yarn.lock"
+  ],
   "dependencies": {
     "prismic-dom": "^2.1.0",
     "prismic-javascript": "^1.5.0"
