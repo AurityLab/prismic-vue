@@ -1,6 +1,6 @@
 {
   "name": "@auritylab/prismic-vue",
-  "version": "1.3.0",
+  "version": "2.0.0",
   "description": "Vue.js plugin to facilitate integration of content managed with Prismic",
   "license": "Apache-2.0",
   "repository": "github:prismicio/prismic-vue",
@@ -27,9 +27,9 @@
   },
   "devDependencies": {
     "@types/prismic-dom": "^2.0.2",
-    "rollup-plugin-typescript2": "^0.19.3",
     "rollup": "^0.62.0",
     "rollup-plugin-commonjs": "^9.1.3",
+    "rollup-plugin-typescript2": "^0.19.3",
     "tslint": "^5.13.1",
     "typescript": "^3.3.3333",
     "uglify-js": "^3.4.3",
